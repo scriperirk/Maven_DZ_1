@@ -16,7 +16,4 @@ public class Main {
         //вывод результата
         System.out.println(passed);
     }
-
-
-
 }
